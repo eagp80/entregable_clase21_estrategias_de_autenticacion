@@ -1,0 +1,12 @@
+{
+  "name": "entregable_clase21_estrategias_de_autenticacion",
+  "version": "1.0.0",
+  "description": "...\r ### Como usar la app:\r  <h2>Ejemplos de rutas:</h2>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
